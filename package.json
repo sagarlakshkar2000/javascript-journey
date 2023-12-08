@@ -1,0 +1,19 @@
+{
+  "name": "javascript-journey",
+  "version": "1.0.0",
+  "description": "this is journey of javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagarlakshkar2000/javascript-journey.git"
+  },
+  "author": "sagar lakshkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagarlakshkar2000/javascript-journey/issues"
+  },
+  "homepage": "https://github.com/sagarlakshkar2000/javascript-journey#readme"
+}
